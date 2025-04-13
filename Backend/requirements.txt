@@ -2,6 +2,6 @@ aiohttp
 aiohttp-cors
 websockets
 numpy
-google-generativeai
+google-generativeai==0.8.4
 uuid
-google-genai
+google-genai==0.3.0
